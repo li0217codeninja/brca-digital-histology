@@ -1,3 +1,6 @@
 [submodule "attention-deep-mil"]
 	path = attention-deep-mil
 	url = https://github.com/AMLab-Amsterdam/AttentionDeepMIL
+[submodule "CLAM"]
+	path = CLAM
+	url = https://github.com/mahmoodlab/CLAM.git
